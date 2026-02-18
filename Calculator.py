@@ -29,7 +29,7 @@ def main():
         if choice == '5':
             print("Exiting the calculator.")
             break
-s
+
         try:
             num1 = float(input("Enter first number: "))
             num2 = float(input("Enter second number: "))
